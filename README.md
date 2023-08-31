@@ -10,9 +10,11 @@
 
 <!-- svg animation -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=2500&pause=1000&center=true&width=435&lines=Hey%2C+It's+Somu+;I'm+a+FullStack+Developer;and+a+Civil+Engeneering+Student%2C;from+BITS+Pilani.;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+It's+Somu+!;Im+a+FullStack+Developer;and+a+Civil+Engineer+Student%2C;from+BITS+Pilani.;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Social links -->
 <div align="center">
