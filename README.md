@@ -1,3 +1,6 @@
+<!--Profile fphoto for social media preview-->
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/119160374?v=4">
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
