@@ -21,7 +21,7 @@
 
 <!-- Social links -->
 <div align="center">
-<a href="https://somu.framer.ai/" target="_blank">
+<a href="http://somu.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%2300acee.svg?color=FADDB3&style=for-the-badge&logo=hashnode&logoColor=C7A370 alt=hshnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/somueega" target="_blank">
